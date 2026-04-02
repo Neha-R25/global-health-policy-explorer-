@@ -82,6 +82,12 @@ expanded policy documentation
 This dashboard provodes an exploratory visualization of mortality trends alonside public health policies and interventions across countries.
 It is intended as an analytical and educational tool rather than a casual policy evaluation framework.
 
+# Dashboard preview 
+
+![Dashboard Overview](dashboard-view.jpeg)
+
+![Policy Timeline](policy-timeline-view.jpeg)
+
 
 
 
